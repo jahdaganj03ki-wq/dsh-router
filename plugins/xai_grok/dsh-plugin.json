@@ -1,0 +1,11 @@
+{
+  "name": "dsh-provider-xai_grok",
+  "id": "dsh-provider-xai_grok",
+  "version": "0.1.0",
+  "description": "DSH Provider Plugin for null",
+  "dsh": {
+    "type": "plugin",
+    "entry": "module.json",
+    "provider": "xai_grok"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "authMethod": "OAuth 2.0 / Service Account",
+  "group": "D",
+  "baseUrl": "https://aiplatform.googleapis.com/v1",
+  "workaroundDE": "billing required",
+  "name": null,
+  "freeTier": "no free tier without billing",
+  "quotaTracking": null,
+  "requiresPayment": true,
+  "geoBlockedDE": true,
+  "modelDiscovery": null,
+  "slug": "vertex_ai"
+}

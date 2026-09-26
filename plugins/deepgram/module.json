@@ -1,0 +1,13 @@
+{
+  "authMethod": "API Key Bearer",
+  "group": "C",
+  "baseUrl": "https://api.deepgram.com/v1",
+  "workaroundDE": "email sign‑up",
+  "name": null,
+  "freeTier": "$200 credit no card",
+  "quotaTracking": null,
+  "requiresPayment": true,
+  "geoBlockedDE": false,
+  "modelDiscovery": null,
+  "slug": "deepgram"
+}

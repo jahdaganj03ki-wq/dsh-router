@@ -1,0 +1,13 @@
+{
+  "authMethod": "API Key Bearer",
+  "group": "C",
+  "baseUrl": "https://api.verdent.ai/v1",
+  "workaroundDE": "subject to quota",
+  "name": null,
+  "freeTier": "free tier limited",
+  "quotaTracking": null,
+  "requiresPayment": true,
+  "geoBlockedDE": false,
+  "modelDiscovery": null,
+  "slug": "verdent"
+}

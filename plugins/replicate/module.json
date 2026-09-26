@@ -1,0 +1,13 @@
+{
+  "authMethod": "API Key Bearer",
+  "group": "C",
+  "baseUrl": "https://api.replicate.com/v1",
+  "workaroundDE": "credit expires 30d",
+  "name": null,
+  "freeTier": "$5 credit new users",
+  "quotaTracking": null,
+  "requiresPayment": true,
+  "geoBlockedDE": false,
+  "modelDiscovery": null,
+  "slug": "replicate"
+}

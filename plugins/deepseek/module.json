@@ -1,0 +1,13 @@
+{
+  "authMethod": "API Key Bearer",
+  "group": "C",
+  "baseUrl": "https://api.deepseek.com/v1",
+  "workaroundDE": "no card needed for basic",
+  "name": null,
+  "freeTier": "free tier limited",
+  "quotaTracking": null,
+  "requiresPayment": true,
+  "geoBlockedDE": false,
+  "modelDiscovery": null,
+  "slug": "deepseek"
+}

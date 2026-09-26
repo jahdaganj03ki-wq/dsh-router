@@ -1,0 +1,11 @@
+{
+  "name": "dsh-provider-openrouter",
+  "id": "dsh-provider-openrouter",
+  "version": "0.1.0",
+  "description": "DSH Provider Plugin for OpenRouter",
+  "dsh": {
+    "type": "plugin",
+    "entry": "module.json",
+    "provider": "openrouter"
+  }
+}

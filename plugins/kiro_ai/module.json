@@ -1,0 +1,13 @@
+{
+  "name": "Kiro AI",
+  "slug": "kiro_ai",
+  "group": "A",
+  "authMethod": "API Key",
+  "freeTier": "unlimited free tier",
+  "requiresPayment": false,
+  "geoBlockedDE": false,
+  "workaroundDE": "use free tier, no VPN needed",
+  "baseUrl": "https://api.kiro.ai/v1",
+  "modelDiscovery": "/v1/models",
+  "quotaTracking": "calls per minute, reset daily"
+}

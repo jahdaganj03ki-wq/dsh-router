@@ -1,0 +1,11 @@
+{
+  "name": "dsh-provider-claude_code",
+  "id": "dsh-provider-claude_code",
+  "version": "0.1.0",
+  "description": "DSH Provider Plugin for null",
+  "dsh": {
+    "type": "plugin",
+    "entry": "module.json",
+    "provider": "claude_code"
+  }
+}

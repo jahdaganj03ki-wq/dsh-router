@@ -1,0 +1,13 @@
+{
+  "authMethod": "API Key Bearer",
+  "group": "C",
+  "baseUrl": "https://api.azure.com/openai/deployments",
+  "workaroundDE": "requires Azure subscription",
+  "name": null,
+  "freeTier": "free tier trial",
+  "quotaTracking": null,
+  "requiresPayment": true,
+  "geoBlockedDE": false,
+  "modelDiscovery": null,
+  "slug": "azure_openai"
+}

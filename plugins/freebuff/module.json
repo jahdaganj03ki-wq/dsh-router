@@ -1,0 +1,13 @@
+{
+  "authMethod": "API Key",
+  "group": "A",
+  "baseUrl": "https://api.freebuff.ai/v1",
+  "workaroundDE": "use free quota",
+  "name": null,
+  "freeTier": "free tier",
+  "quotaTracking": null,
+  "requiresPayment": false,
+  "geoBlockedDE": false,
+  "modelDiscovery": null,
+  "slug": "freebuff"
+}

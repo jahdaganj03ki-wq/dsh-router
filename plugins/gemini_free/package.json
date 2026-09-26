@@ -1,0 +1,7 @@
+{
+  "name": "dsh-provider-gemini_free",
+  "version": "0.1.0",
+  "description": "DSH Provider Plugin for Gemini (Google AI Studio)",
+  "type": "module",
+  "main": "module.json"
+}

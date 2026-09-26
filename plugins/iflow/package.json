@@ -1,0 +1,7 @@
+{
+  "name": "dsh-provider-iflow",
+  "version": "0.1.0",
+  "description": "DSH Provider Plugin for iFlow",
+  "type": "module",
+  "main": "module.json"
+}

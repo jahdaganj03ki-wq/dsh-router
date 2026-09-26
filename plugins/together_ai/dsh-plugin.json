@@ -1,0 +1,11 @@
+{
+  "name": "dsh-provider-together_ai",
+  "id": "dsh-provider-together_ai",
+  "version": "0.1.0",
+  "description": "DSH Provider Plugin for null",
+  "dsh": {
+    "type": "plugin",
+    "entry": "module.json",
+    "provider": "together_ai"
+  }
+}

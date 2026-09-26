@@ -1,0 +1,7 @@
+{
+  "name": "dsh-provider-qwen",
+  "version": "0.1.0",
+  "description": "DSH Provider Plugin for Qwen",
+  "type": "module",
+  "main": "module.json"
+}

@@ -1,0 +1,13 @@
+{
+  "authMethod": "API Key Bearer",
+  "group": "C",
+  "baseUrl": "https://api.fireworks.ai/inference/v1",
+  "workaroundDE": "credits expire",
+  "name": null,
+  "freeTier": "$1 credit",
+  "quotaTracking": null,
+  "requiresPayment": true,
+  "geoBlockedDE": false,
+  "modelDiscovery": null,
+  "slug": "fireworks_ai"
+}

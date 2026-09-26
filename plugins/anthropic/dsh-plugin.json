@@ -1,0 +1,11 @@
+{
+  "name": "dsh-provider-anthropic",
+  "id": "dsh-provider-anthropic",
+  "version": "0.1.0",
+  "description": "DSH Provider Plugin for null",
+  "dsh": {
+    "type": "plugin",
+    "entry": "module.json",
+    "provider": "anthropic"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "dsh-provider-nvidia_nim",
+  "id": "dsh-provider-nvidia_nim",
+  "version": "0.1.0",
+  "description": "DSH Provider Plugin for NVIDIA NIM",
+  "dsh": {
+    "type": "plugin",
+    "entry": "module.json",
+    "provider": "nvidia_nim"
+  }
+}

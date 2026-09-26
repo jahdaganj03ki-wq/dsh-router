@@ -1,0 +1,11 @@
+{
+  "name": "dsh-provider-kiro_ai",
+  "id": "dsh-provider-kiro_ai",
+  "version": "0.1.0",
+  "description": "DSH Provider Plugin for Kiro AI",
+  "dsh": {
+    "type": "plugin",
+    "entry": "module.json",
+    "provider": "kiro_ai"
+  }
+}

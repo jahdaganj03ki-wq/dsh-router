@@ -1,0 +1,7 @@
+{
+  "name": "dsh-provider-cloudflare_ai",
+  "version": "0.1.0",
+  "description": "DSH Provider Plugin for Cloudflare AI",
+  "type": "module",
+  "main": "module.json"
+}

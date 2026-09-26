@@ -1,0 +1,7 @@
+{
+  "name": "dsh-provider-opencode_free",
+  "version": "0.1.0",
+  "description": "DSH Provider Plugin for OpenCode Free",
+  "type": "module",
+  "main": "module.json"
+}

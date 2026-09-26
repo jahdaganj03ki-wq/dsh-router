@@ -1,0 +1,11 @@
+{
+  "name": "dsh-provider-vertex_ai",
+  "id": "dsh-provider-vertex_ai",
+  "version": "0.1.0",
+  "description": "DSH Provider Plugin for null",
+  "dsh": {
+    "type": "plugin",
+    "entry": "module.json",
+    "provider": "vertex_ai"
+  }
+}

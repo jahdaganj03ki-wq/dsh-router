@@ -1,0 +1,7 @@
+{
+  "name": "dsh-provider-verdent",
+  "version": "0.1.0",
+  "description": "DSH Provider Plugin for null",
+  "type": "module",
+  "main": "module.json"
+}

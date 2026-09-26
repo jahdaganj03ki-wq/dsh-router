@@ -1,0 +1,13 @@
+{
+  "authMethod": "API Key Bearer",
+  "group": "C",
+  "baseUrl": "https://api.mistral.ai/v1",
+  "workaroundDE": "no card for basic",
+  "name": null,
+  "freeTier": "free tier $5 credit",
+  "quotaTracking": null,
+  "requiresPayment": true,
+  "geoBlockedDE": false,
+  "modelDiscovery": null,
+  "slug": "mistral"
+}

@@ -1,0 +1,13 @@
+{
+  "authMethod": "API Key",
+  "group": "A",
+  "baseUrl": "https://api.trae.cn/v1",
+  "workaroundDE": "VPN required",
+  "name": null,
+  "freeTier": "requires VPN",
+  "quotaTracking": null,
+  "requiresPayment": false,
+  "geoBlockedDE": true,
+  "modelDiscovery": null,
+  "slug": "trae_cn"
+}

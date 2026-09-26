@@ -1,0 +1,13 @@
+{
+  "name": "Gemini (Google AI Studio)",
+  "slug": "gemini_free",
+  "group": "A",
+  "authMethod": "API Key (Google AI Studio)",
+  "freeTier": "free quota without billing",
+  "requiresPayment": false,
+  "geoBlockedDE": false,
+  "workaroundDE": "use Google AI Studio free quota, no card needed",
+  "baseUrl": "https://generativelanguage.googleapis.com/v1beta",
+  "modelDiscovery": "/v1/models",
+  "quotaTracking": "requests per minute, quota resets daily"
+}
