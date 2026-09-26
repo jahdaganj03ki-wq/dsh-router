@@ -1,0 +1,13 @@
+{
+  "name": "Cloudflare AI",
+  "slug": "cloudflare_ai",
+  "group": "A",
+  "authMethod": "API Key (Workers AI)",
+  "freeTier": "free tier Workers AI",
+  "requiresPayment": false,
+  "geoBlockedDE": false,
+  "workaroundDE": "use free Workers AI quota, no VPN",
+  "baseUrl": "https://api.cloudflare.com/v1/ai",
+  "modelDiscovery": "/v1/models",
+  "quotaTracking": "requests per minute, Workers AI limits"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "NVIDIA NIM",
+  "slug": "nvidia_nim",
+  "group": "A",
+  "authMethod": "API Key",
+  "freeTier": "free tier for research",
+  "requiresPayment": false,
+  "geoBlockedDE": false,
+  "workaroundDE": "use free research tier, no VPN",
+  "baseUrl": "https://api.nvidia.com/v1",
+  "modelDiscovery": "/v1/models",
+  "quotaTracking": "requests per minute, research quota"
+}

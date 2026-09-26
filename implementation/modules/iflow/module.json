@@ -1,0 +1,13 @@
+{
+  "name": "iFlow",
+  "slug": "iflow",
+  "group": "A",
+  "authMethod": "API Key",
+  "freeTier": "free tier with quotas",
+  "requiresPayment": false,
+  "geoBlockedDE": false,
+  "workaroundDE": "stay within free quota, no VPN",
+  "baseUrl": "https://api.iflow.ai/v1",
+  "modelDiscovery": "/v1/models",
+  "quotaTracking": "calls per minute, reset daily"
+}

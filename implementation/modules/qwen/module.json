@@ -1,0 +1,13 @@
+{
+  "name": "Qwen",
+  "slug": "qwen",
+  "group": "A",
+  "authMethod": "API Key",
+  "freeTier": "free tier with quotas",
+  "requiresPayment": false,
+  "geoBlockedDE": false,
+  "workaroundDE": "use free quota, no VPN",
+  "baseUrl": "https://api.qwen.ai/v1",
+  "modelDiscovery": "/v1/models",
+  "quotaTracking": "calls per minute, reset daily"
+}

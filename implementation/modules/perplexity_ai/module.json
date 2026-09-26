@@ -1,0 +1,13 @@
+{
+  "authMethod": "API Key Bearer",
+  "group": "C",
+  "baseUrl": "https://api.perplexity.ai/v1",
+  "workaroundDE": "Pro credits $5/mo",
+  "name": null,
+  "freeTier": "no permanent free tier",
+  "quotaTracking": null,
+  "requiresPayment": true,
+  "geoBlockedDE": false,
+  "modelDiscovery": null,
+  "slug": "perplexity_ai"
+}

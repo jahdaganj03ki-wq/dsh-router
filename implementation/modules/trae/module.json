@@ -1,0 +1,13 @@
+{
+  "authMethod": "API Key",
+  "group": "A",
+  "baseUrl": "https://api.trae.ai/v1",
+  "workaroundDE": "VPN required in Germany",
+  "name": null,
+  "freeTier": "free trial",
+  "quotaTracking": null,
+  "requiresPayment": false,
+  "geoBlockedDE": true,
+  "modelDiscovery": null,
+  "slug": "trae"
+}

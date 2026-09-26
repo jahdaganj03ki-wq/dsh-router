@@ -1,0 +1,13 @@
+{
+  "authMethod": "API Key Bearer",
+  "group": "C",
+  "baseUrl": "https://api.kimi.ai/v1",
+  "workaroundDE": "German mobile may be needed",
+  "name": null,
+  "freeTier": "free trial 1000 calls",
+  "quotaTracking": null,
+  "requiresPayment": true,
+  "geoBlockedDE": false,
+  "modelDiscovery": null,
+  "slug": "kimi"
+}

@@ -1,0 +1,13 @@
+{
+  "authMethod": "OAuth Device Code",
+  "group": "B",
+  "baseUrl": "https://api.devin.ai/v1",
+  "workaroundDE": "requires payment after",
+  "name": null,
+  "freeTier": "free trial",
+  "quotaTracking": null,
+  "requiresPayment": true,
+  "geoBlockedDE": false,
+  "modelDiscovery": null,
+  "slug": "devin_ide"
+}

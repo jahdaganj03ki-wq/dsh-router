@@ -1,0 +1,40 @@
+slug,group,auth,freeTier,paymentRequired,geoBlockedDE,workaround,baseUrl,reportPath
+kiro_ai,A,API Key,free tier unlimited,no,no,use free tier,https://api.kiro.ai/v1,deep_research/Kiro_AI.md
+iflow,A,API Key,free tier,no,no,stay within free quota,https://api.iflow.ai/v1,deep_research/iFlow.md
+qwen,A,API Key,free tier,no,no,use free quota,https://api.qwen.ai/v1,deep_research/Qwen.md
+opencode_free,A,API Key,free tier,no,no,opt-in training,https://opencode.ai/zen/v1/responses,deep_research/OpenCode_Free.md
+openrouter,A,API Key Bearer,free models,no,no,use free model list,https://openrouter.ai/api/v1,deep_research/OpenRouter.md
+nvidia_nim,A,API Key,free tier (research),no,no,subject to NIM policy,https://api.nvidia.com/v1,deep_research/NVIDIA_NIM.md
+gemini_free,A,API Key (Google AI Studio),free quota,no,no,Google AI Studio no billing,https://generativelanguage.googleapis.com/v1beta,deep_research/Gemini.md
+cloudflare_ai,A,API Key,free tier,no,no,use Workers AI,https://api.cloudflare.com/v1/ai,deep_research/Cloudflare_AI.md
+claude_code,B,OAuth Authorization Code,free trial 100k tokens,yes,no,upgrade needed for full,https://api.anthropic.com/v1,deep_research/Claude_Code.md
+codex,B,OAuth Authorization Code,free tier limited,yes,no,requires payment after limit,https://api.openai.com/v1,deep_research/Codex.md
+github_copilot,B,OAuth Device Code,subscription,yes,no,GitHub account needed,https://api.github.com/copilot,deep_research/GitHub_Copilot.md
+cursor_ide,B,OAuth Authorization Code,free trial,yes,no,upgrade after trial,https://api.cursor.sh/v1,deep_research/Cursor_IDE.md
+kilo_code,B,API Key Bearer,free tier 1000 calls,yes,no,upgrade after cap,https://api.kilo.ai/v1,deep_research/Kilo_Code.md
+cline,B,API Key Bearer,free tier 1000 calls,yes,no,upgrade after cap,https://api.cline.ai/v1,deep_research/Cline.md
+glm_coding,C,API Key Bearer,free tier limited,yes,no,subject to quota,https://api.glm.ai/v1,deep_research/GLM_Coding.md
+kimi,C,API Key Bearer,free trial 1000 calls,yes,no,German mobile may be needed,https://api.kimi.ai/v1,deep_research/Kimi.md
+minimax,C,API Key Bearer,free tier limited,yes,no,quota reset monthly,https://api.minimax.io/v1,deep_research/MiniMax.md
+openai,C,API Key Bearer,free tier $5 credit 3 months,yes,no,requires card for full,https://api.openai.com/v1,deep_research/OpenAI.md
+anthropic,C,API Key Bearer,free tier $5 credit,yes,no,requires card,https://api.anthropic.com/v1,deep_research/Anthropic.md
+deepseek,C,API Key Bearer,free tier limited,yes,no,no card needed for basic,https://api.deepseek.com/v1,deep_research/DeepSeek.md
+groq,C,API Key Bearer,free tier 5 rpm,yes,no,subject to rate limit,https://api.groq.com/v1,deep_research/Groq.md
+xai_grok,C,API Key Bearer,free tier limited,yes,no,requires account,https://api.x.ai/v1,deep_research/xAI_Grok.md
+mistral,C,API Key Bearer,free tier $5 credit,yes,no,no card for basic,https://api.mistral.ai/v1,deep_research/Mistral.md
+azure_openai,C,API Key Bearer,free tier trial,yes,no,requires Azure subscription,https://api.azure.com/openai/deployments,deep_research/Azure_OpenAI.md
+trae,A,API Key,free trial,no,yes,VPN required in Germany,https://api.trae.ai/v1,deep_research/Trae.md
+trae_cn,A,API Key,requires VPN,no,yes,VPN required,https://api.trae.cn/v1,deep_research/Trae_CN.md
+freebuff,A,API Key,free tier,no,no,use free quota,https://api.freebuff.ai/v1,deep_research/Freebuff.md
+devin_ide,B,OAuth Device Code,free trial,yes,no,requires payment after,https://api.devin.ai/v1,deep_research/Devin_IDE.md
+monkeycode,C,API Key Bearer,free tier limited,yes,no,subject to quota,https://api.monkeycode.ai/v1,deep_research/MonkeyCode.md
+zcode,C,API Key Bearer,free tier limited,yes,no,subject to quota,https://api.zcode.ai/v1,deep_research/Zcode.md
+verdent,C,API Key Bearer,free tier limited,yes,no,subject to quota,https://api.verdent.ai/v1,deep_research/Verdent.md
+replicate,C,API Key Bearer,$5 credit new users,yes,no,credit expires 30d,https://api.replicate.com/v1,deep_research/Replicate.md
+fireworks_ai,C,API Key Bearer,$1 credit,yes,no,credits expire,https://api.fireworks.ai/inference/v1,deep_research/Fireworks_AI.md
+together_ai,C,API Key Bearer,$5 prepaid credit,yes,no,minimum $5 purchase,https://api.together.ai/v1,deep_research/Together_AI.md
+deepgram,C,API Key Bearer,$200 credit no card,yes,no,email sign‑up,https://api.deepgram.com/v1,deep_research/Deepgram.md
+perplexity_ai,C,API Key Bearer,no permanent free tier,yes,no,Pro credits $5/mo,https://api.perplexity.ai/v1,deep_research/Perplexity_AI.md
+cohere,C,API Key Bearer,Trial Key 1000 calls/mo,yes,no,no card needed for trial,https://api.cohere.com/v1,deep_research/Cohere.md
+vertex_ai,D,OAuth 2.0 / Service Account,no free tier without billing,yes,yes,billing required,https://aiplatform.googleapis.com/v1,deep_research/Vertex_AI.md
+huggingface,D,API Key Bearer,free inference quotas,no,no,subject to rate limits,https://api-inference.huggingface.co,deep_research/HuggingFace.md

@@ -1,0 +1,13 @@
+{
+  "authMethod": "API Key Bearer",
+  "group": "C",
+  "baseUrl": "https://api.openai.com/v1",
+  "workaroundDE": "requires card for full",
+  "name": null,
+  "freeTier": "free tier $5 credit 3 months",
+  "quotaTracking": null,
+  "requiresPayment": true,
+  "geoBlockedDE": false,
+  "modelDiscovery": null,
+  "slug": "openai"
+}

@@ -1,0 +1,13 @@
+{
+  "name": "OpenCode Free",
+  "slug": "opencode_free",
+  "group": "A",
+  "authMethod": "API Key (OpenAI‑compatible)",
+  "freeTier": "free with training‑opt‑in",
+  "requiresPayment": false,
+  "geoBlockedDE": false,
+  "workaroundDE": "no VPN needed, training opt‑in",
+  "baseUrl": "https://opencode.ai/zen/v1/responses",
+  "modelDiscovery": "/v1/models",
+  "quotaTracking": "requests per minute, opt‑in training"
+}

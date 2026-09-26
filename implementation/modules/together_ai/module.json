@@ -1,0 +1,13 @@
+{
+  "authMethod": "API Key Bearer",
+  "group": "C",
+  "baseUrl": "https://api.together.ai/v1",
+  "workaroundDE": "minimum $5 purchase",
+  "name": null,
+  "freeTier": "$5 prepaid credit",
+  "quotaTracking": null,
+  "requiresPayment": true,
+  "geoBlockedDE": false,
+  "modelDiscovery": null,
+  "slug": "together_ai"
+}

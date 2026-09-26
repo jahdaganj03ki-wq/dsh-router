@@ -1,0 +1,13 @@
+{
+  "authMethod": "API Key Bearer",
+  "group": "C",
+  "baseUrl": "https://api.groq.com/v1",
+  "workaroundDE": "subject to rate limit",
+  "name": null,
+  "freeTier": "free tier 5 rpm",
+  "quotaTracking": null,
+  "requiresPayment": true,
+  "geoBlockedDE": false,
+  "modelDiscovery": null,
+  "slug": "groq"
+}

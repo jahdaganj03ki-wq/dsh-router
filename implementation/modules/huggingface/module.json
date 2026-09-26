@@ -1,0 +1,13 @@
+{
+  "authMethod": "API Key Bearer",
+  "group": "D",
+  "baseUrl": "https://api-inference.huggingface.co",
+  "workaroundDE": "subject to rate limits",
+  "name": null,
+  "freeTier": "free inference quotas",
+  "quotaTracking": null,
+  "requiresPayment": false,
+  "geoBlockedDE": false,
+  "modelDiscovery": null,
+  "slug": "huggingface"
+}

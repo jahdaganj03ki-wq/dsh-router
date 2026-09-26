@@ -1,0 +1,13 @@
+{
+  "authMethod": "API Key Bearer",
+  "group": "B",
+  "baseUrl": "https://api.kilo.ai/v1",
+  "workaroundDE": "upgrade after cap",
+  "name": null,
+  "freeTier": "free tier 1000 calls",
+  "quotaTracking": null,
+  "requiresPayment": true,
+  "geoBlockedDE": false,
+  "modelDiscovery": null,
+  "slug": "kilo_code"
+}

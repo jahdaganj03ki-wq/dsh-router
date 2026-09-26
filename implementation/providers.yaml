@@ -1,0 +1,208 @@
+providers:
+  FREE_Forever:
+    description: Dauerhaft frei, keine Kreditkarte nötig
+    providers:
+      - name: Kiro AI
+        slug: kiro_ai
+        baseUrl: https://api.kiro.ai/v1
+        authMethods: [API Key]
+        freeTierLimits:
+          callsPerMonth: -1
+          rpm: 60
+          requiresPayment: false
+      - name: iFlow
+        slug: iflow
+        baseUrl: https://api.iflow.ai/v1
+        authMethods: [API Key]
+        freeTierLimits:
+          callsPerMonth: -1
+          rpm: 30
+          requiresPayment: false
+      - name: Qwen
+        slug: qwen
+        baseUrl: https://api.qwen.ai/v1
+        authMethods: [API Key]
+        freeTierLimits:
+          callsPerMonth: -1
+          rpm: 30
+          requiresPayment: false
+      - name: OpenCode Free
+        slug: opencode_free
+        baseUrl: https://opencode.ai/zen/v1/responses
+        authMethods: [API Key]
+        freeTierLimits:
+          callsPerMonth: -1
+          rpm: 20
+          requiresPayment: false
+          optInTraining: true
+      - name: OpenRouter
+        slug: openrouter
+        baseUrl: https://openrouter.ai/api/v1
+        authMethods: [API Key]
+        freeTierLimits:
+          callsPerMonth: -1
+          rpm: 20
+          requiresPayment: false
+      - name: NVIDIA NIM
+        slug: nvidia_nim
+        baseUrl: https://api.nvidia.com/v1
+        authMethods: [API Key]
+        freeTierLimits:
+          callsPerMonth: -1
+          rpm: 30
+          requiresPayment: false
+      - name: Gemini Free
+        slug: gemini_free
+        baseUrl: https://generativelanguage.googleapis.com/v1beta
+        authMethods: [API Key]
+        freeTierLimits:
+          callsPerMonth: -1
+          rpm: 60
+          requiresPayment: false
+      - name: Cloudflare AI
+        slug: cloudflare_ai
+        baseUrl: https://api.cloudflare.com/v1/ai
+        authMethods: [API Key]
+        freeTierLimits:
+          callsPerMonth: -1
+          rpm: 100
+          requiresPayment: false
+
+  OAuth_Subscription:
+    description: OAuth Device/Authorization Code, meist Trial
+    providers:
+      - name: Claude Code
+        slug: claude_code
+        baseUrl: https://api.anthropic.com/v1
+        authMethods: [OAuth Authorization Code]
+        freeTierLimits:
+          callsPerMonth: 100000
+          rpm: 10
+          requiresPayment: true
+      - name: Codex
+        slug: codex
+        baseUrl: https://api.openai.com/v1
+        authMethods: [OAuth Authorization Code, API Key]
+        freeTierLimits:
+          callsPerMonth: 1000
+          rpm: 5
+          requiresPayment: true
+      - name: GitHub Copilot
+        slug: github_copilot
+        baseUrl: https://api.github.com/copilot
+        authMethods: [OAuth Device Code]
+        freeTierLimits:
+          callsPerMonth: -1
+          rpm: 10
+          requiresPayment: true
+      - name: Cursor IDE
+        slug: cursor_ide
+        baseUrl: https://api.cursor.sh/v1
+        authMethods: [OAuth Authorization Code]
+        freeTierLimits:
+          callsPerMonth: 5000
+          rpm: 10
+          requiresPayment: true
+      - name: Kilo Code
+        slug: kilo_code
+        baseUrl: https://api.kilo.ai/v1
+        authMethods: [API Key]
+        freeTierLimits:
+          callsPerMonth: 1000
+          rpm: 10
+          requiresPayment: true
+      - name: Cline
+        slug: cline
+        baseUrl: https://api.cline.ai/v1
+        authMethods: [API Key]
+        freeTierLimits:
+          callsPerMonth: 1000
+          rpm: 10
+          requiresPayment: true
+
+  API_Key_Cheap:
+    description: Pay-as-you-go mit Startguthaben
+    providers:
+      - name: GLM Coding
+        slug: glm_coding
+        baseUrl: https://api.glm.ai/v1
+        authMethods: [API Key]
+        freeTierLimits:
+          callsPerMonth: 5000
+          rpm: 10
+          requiresPayment: true
+      - name: Kimi
+        slug: kimi
+        baseUrl: https://api.kimi.ai/v1
+        authMethods: [API Key]
+        freeTierLimits:
+          callsPerMonth: 1000
+          rpm: 10
+          requiresPayment: true
+      - name: MiniMax
+        slug: minimax
+        baseUrl: https://api.minimax.io/v1
+        authMethods: [API Key]
+        freeTierLimits:
+          callsPerMonth: 5000
+          rpm: 10
+          requiresPayment: true
+      - name: OpenAI
+        slug: openai
+        baseUrl: https://api.openai.com/v1
+        authMethods: [API Key]
+        freeTierLimits:
+          callsPerMonth: -1
+          rpm: 3
+          requiresPayment: true
+          creditUsd: 5
+      - name: Anthropic
+        slug: anthropic
+        baseUrl: https://api.anthropic.com/v1
+        authMethods: [API Key]
+        freeTierLimits:
+          callsPerMonth: -1
+          rpm: 5
+          requiresPayment: true
+          creditUsd: 5
+      - name: DeepSeek
+        slug: deepseek
+        baseUrl: https://api.deepseek.com/v1
+        authMethods: [API Key]
+        freeTierLimits:
+          callsPerMonth: -1
+          rpm: 10
+          requiresPayment: true
+      - name: Groq
+        slug: groq
+        baseUrl: https://api.groq.com/v1
+        authMethods: [API Key]
+        freeTierLimits:
+          callsPerMonth: -1
+          rpm: 5
+          requiresPayment: true
+      - name: xAI Grok
+        slug: xai_grok
+        baseUrl: https://api.x.ai/v1
+        authMethods: [API Key]
+        freeTierLimits:
+          callsPerMonth: -1
+          rpm: 5
+          requiresPayment: true
+      - name: Mistral
+        slug: mistral
+        baseUrl: https://api.mistral.ai/v1
+        authMethods: [API Key]
+        freeTierLimits:
+          callsPerMonth: -1
+          rpm: 5
+          requiresPayment: true
+          creditUsd: 5
+      - name: Azure OpenAI
+        slug: azure_openai
+        baseUrl: https://api.azure.com/openai/deployments
+        authMethods: [API Key]
+        freeTierLimits:
+          callsPerMonth: -1
+          rpm: 10
+          requiresPayment: true

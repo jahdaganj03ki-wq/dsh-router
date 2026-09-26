@@ -1,0 +1,14 @@
+{
+  "name": "dsh-router",
+  "version": "0.1.0",
+  "description": "DSH Desktop Plugin for multi-provider OAuth and API key routing with free tier management",
+  "main": "implementation/src/index.mjs",
+  "type": "module",
+  "scripts": {
+    "setup": "node implementation/bin/setup.mjs",
+    "test:providers": "node implementation/bin/test_providers.mjs"
+  },
+  "keywords": ["dsh","oauth","router","ai","providers"],
+  "author": "",
+  "license": "MIT"
+}

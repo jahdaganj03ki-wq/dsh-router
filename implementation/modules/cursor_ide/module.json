@@ -1,0 +1,13 @@
+{
+  "authMethod": "OAuth Authorization Code",
+  "group": "B",
+  "baseUrl": "https://api.cursor.sh/v1",
+  "workaroundDE": "upgrade after trial",
+  "name": null,
+  "freeTier": "free trial",
+  "quotaTracking": null,
+  "requiresPayment": true,
+  "geoBlockedDE": false,
+  "modelDiscovery": null,
+  "slug": "cursor_ide"
+}

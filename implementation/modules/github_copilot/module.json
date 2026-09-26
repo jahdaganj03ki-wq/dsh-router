@@ -1,0 +1,13 @@
+{
+  "authMethod": "OAuth Device Code",
+  "group": "B",
+  "baseUrl": "https://api.github.com/copilot",
+  "workaroundDE": "GitHub account needed",
+  "name": null,
+  "freeTier": "subscription",
+  "quotaTracking": null,
+  "requiresPayment": true,
+  "geoBlockedDE": false,
+  "modelDiscovery": null,
+  "slug": "github_copilot"
+}

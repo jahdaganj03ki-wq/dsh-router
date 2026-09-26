@@ -1,0 +1,13 @@
+{
+  "name": "OpenRouter",
+  "slug": "openrouter",
+  "group": "A",
+  "authMethod": "API Key Bearer",
+  "freeTier": "free models, limited daily quota",
+  "requiresPayment": false,
+  "geoBlockedDE": false,
+  "workaroundDE": "use free model list, no VPN",
+  "baseUrl": "https://openrouter.ai/api/v1",
+  "modelDiscovery": "/v1/models",
+  "quotaTracking": "requests per minute, model‑specific limits"
+}

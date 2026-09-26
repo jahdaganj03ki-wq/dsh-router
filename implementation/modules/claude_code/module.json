@@ -1,0 +1,13 @@
+{
+  "authMethod": "OAuth Authorization Code",
+  "group": "B",
+  "baseUrl": "https://api.anthropic.com/v1",
+  "workaroundDE": "upgrade needed for full",
+  "name": null,
+  "freeTier": "free trial 100k tokens",
+  "quotaTracking": null,
+  "requiresPayment": true,
+  "geoBlockedDE": false,
+  "modelDiscovery": null,
+  "slug": "claude_code"
+}
