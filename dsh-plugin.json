@@ -1,5 +1,6 @@
 {
   "name": "dsh-router",
+  "id": "dsh-router",
   "version": "0.1.0",
   "description": "DSH Desktop Plugin for multi-provider OAuth and API key routing with free tier management",
   "main": "implementation/src/index.mjs",
@@ -8,6 +9,7 @@
   "dsh": {
     "type": "plugin",
     "entry": "implementation/src/index.mjs",
-    "providersPath": "implementation/providers.yaml"
+    "providersPath": "implementation/providers.yaml",
+    "namespace": "dsh-router"
   }
 }
